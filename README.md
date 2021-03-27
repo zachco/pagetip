@@ -1,3 +1,3 @@
 # pagetip
 
-view preview of a page in a tooltip
+View and interactive preview of a page in a tooltip.
