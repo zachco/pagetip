@@ -1,7 +1,7 @@
 $(".tiptext")
   .mouseover(function () {
-    $(this).children(".description").show();
+    $(this).children(".preview").show();
   })
   .mouseout(function () {
-    $(this).children(".description").hide();
+    $(this).children(".preview").hide();
   });
